@@ -1,0 +1,62 @@
+{
+    "made-story1": {
+        "broker1": {
+            "define": {
+                "command1": "command1",
+                "comamnd2": "command2"
+            },
+            "alter": {
+                "command1": "command1",
+                "comamnd2": "command2",
+                "Msgflows": {
+                    "EG1": "msgflow1,msgflow2,msgflow3",
+                    "EG2": "msgflow1,msgflow2,msgflow3"
+                }
+            }
+        },
+        "broker2": {
+            "define": {
+                "command1": "command1",
+                "comamnd2": "command2"
+            },
+            "alter": {
+                "command1": "command1",
+                "comamnd2": "command2",
+                "Msgflows": {
+                    "EG1": "msgflow1,msgflow2,msgflow3",
+                    "EG2": "msgflow1,msgflow2,msgflow3"
+                }
+            }
+        }
+    },
+    "made-story2": {
+        "broker1": {
+            "define": {
+                "command1": "command1",
+                "comamnd2": "command2"
+            },
+            "alter": {
+                "command1": "command1",
+                "comamnd2": "command2",
+                "Msgflows": {
+                    "EG1": "msgflow1,msgflow2,msgflow3",
+                    "EG2": "msgflow1,msgflow2,msgflow3"
+                }
+            }
+        },
+        "broker2": {
+            "define": {
+                "command1": "command1",
+                "comamnd2": "command2"
+            },
+            "alter": {
+                "command1": "command1",
+                "comamnd2": "command2",
+                "Msgflows": {
+                    "EG1": "msgflow1,msgflow2,msgflow3",
+                    "EG2": "msgflow1,msgflow2,msgflow3"
+                }
+            }
+        }
+    }
+}
